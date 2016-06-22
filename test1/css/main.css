@@ -24,7 +24,7 @@
 
  #section1 .content, #section2 .content, #section3 .content {
  	font-size: 1rem;
- 	background-color: #0DD37E; 
+ 	background-color: #808080; 
  	position: relative;
  	border:1px solid black;
  	padding-top: 12px;
@@ -34,7 +34,7 @@
  }
  
 #section1 .title {
-	background-color: #065C37;
+	background-color: #FFC0CB;
 
 }
 
@@ -43,7 +43,7 @@
 }
 
 #section3 .title {
-	background-color: #0D4EE1;
+	background-color: #FFFF00;
 }
 
 /* desktop  */
